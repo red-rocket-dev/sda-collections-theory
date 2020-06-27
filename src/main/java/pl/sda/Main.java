@@ -75,7 +75,11 @@ public class Main {
         for (String notDuplicate : listWithoutDupes) {
             System.out.println(notDuplicate);
         }
+
+
+
         //TODO: jak sortowac liste
+        //TODO: mapy
     }
 
     public static void printList(List<String> list) {
